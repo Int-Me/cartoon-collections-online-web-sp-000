@@ -9,6 +9,7 @@ def summon_captain_planet(array)
     capitalize(element)
     element << "!"
   end
+  array
 end
 
 def long_planeteer_calls# code an argument here
